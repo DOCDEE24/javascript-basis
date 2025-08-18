@@ -1,5 +1,19 @@
-let introduction ="my name is daniel , and i am a mobile developer"
+let firstName = "Daniel"
+let bestColor = "yellow"
+let gender =""male"
+let bills ="200000"
 
-let age = 19
+let firstName ="chioma"
+let Surname ="Rowland"
+let fullName="Rowland chioma"
+let age = 24
+let marital status = "single"
 
-let gender = "male";
+//she got married,it's a new year
+
+
+surname = 'adeleke'
+
+age =25;
+
+console.log('this is an information concerning a lady')
